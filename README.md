@@ -2,6 +2,7 @@
 使用 springboot 简单实现了 秒杀系统
 
 项目设计
+```
  .
  ├── README  -- Doc文档
  ├── mvnw  
@@ -39,5 +40,5 @@
    │           ├── page
    │           └── public
    └── test -- 测试文件
-      
+    ``` 
 
